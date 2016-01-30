@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                 tv2.setText("" + event.values[1]);
                 tv3.setText("" + event.values[2]);
                 break;
-
+            //Committed
 
 
         }
